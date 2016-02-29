@@ -18,6 +18,7 @@
     <sprite>sprites\sprite_bar_red</sprite>
     <sprite>sprites\sprite_bar_yellow</sprite>
     <sprite>sprites\sprite_bar_pink</sprite>
+    <sprite>sprites\sprite_rainbow</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
