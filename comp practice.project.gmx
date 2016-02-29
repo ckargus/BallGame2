@@ -15,10 +15,12 @@
     <sprite>sprites\sprite_wall</sprite>
     <sprite>sprites\sprite_wallEmmiter</sprite>
     <sprite>sprites\sprite_bar_blue</sprite>
+    <sprite>sprites\sprite_barCreate</sprite>
     <sprite>sprites\sprite_bar_red</sprite>
     <sprite>sprites\sprite_bar_yellow</sprite>
     <sprite>sprites\sprite_bar_pink</sprite>
     <sprite>sprites\sprite_rainbow</sprite>
+    <sprite>sprites\sprite_End</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -28,6 +30,8 @@
     <object>objects\object_wallEmitter</object>
     <object>objects\object_wall</object>
     <object>objects\object_ranBall</object>
+    <object>objects\object_end</object>
+    <object>objects\object_barCreate</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
