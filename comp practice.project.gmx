@@ -32,6 +32,10 @@
     <object>objects\object_ranBall</object>
     <object>objects\object_end</object>
     <object>objects\object_barCreate</object>
+    <object>objects\object_barBlue</object>
+    <object>objects\object_barYellow</object>
+    <object>objects\object_barRed</object>
+    <object>objects\object_barPink</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
