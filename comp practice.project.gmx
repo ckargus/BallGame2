@@ -21,6 +21,7 @@
     <sprite>sprites\sprite_bar_pink</sprite>
     <sprite>sprites\sprite_rainbow</sprite>
     <sprite>sprites\sprite_End</sprite>
+    <sprite>sprites\sprite_rainbowBarCreate</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -36,6 +37,8 @@
     <object>objects\object_barYellow</object>
     <object>objects\object_barRed</object>
     <object>objects\object_barPink</object>
+    <object>objects\object_rainbowBarCreate</object>
+    <object>objects\object_rainbowBar</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
