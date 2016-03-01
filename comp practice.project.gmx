@@ -30,7 +30,6 @@
     <object>objects\object_cannon</object>
     <object>objects\object_wallEmitter</object>
     <object>objects\object_wall</object>
-    <object>objects\object_ranBall</object>
     <object>objects\object_end</object>
     <object>objects\object_barCreate</object>
     <object>objects\object_barBlue</object>
