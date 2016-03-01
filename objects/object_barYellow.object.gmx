@@ -121,7 +121,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>176</string>
           </argument>
         </arguments>
       </action>
@@ -159,7 +159,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>(-768 - 768)</string>
+            <string>-560 + i</string>
           </argument>
           <argument>
             <kind>0</kind>
