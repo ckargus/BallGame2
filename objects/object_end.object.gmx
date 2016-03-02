@@ -29,7 +29,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>12</string>
           </argument>
         </arguments>
       </action>
@@ -77,7 +77,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>150</string>
+            <string>60</string>
           </argument>
         </arguments>
       </action>
