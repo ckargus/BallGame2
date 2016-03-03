@@ -1052,7 +1052,7 @@ global.color = choose(1,2,3,4)
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="object_barRed">
+    <event eventtype="4" ename="object_barYellow">
       <action>
         <libid>1</libid>
         <id>612</id>
@@ -1073,7 +1073,7 @@ global.color = choose(1,2,3,4)
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>3</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -1382,7 +1382,7 @@ global.color = choose(1,2,3,4)
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="object_barYellow">
+    <event eventtype="4" ename="object_barRed">
       <action>
         <libid>1</libid>
         <id>612</id>
@@ -1403,7 +1403,7 @@ global.color = choose(1,2,3,4)
           </argument>
           <argument>
             <kind>0</kind>
-            <string>3</string>
+            <string>1</string>
           </argument>
           <argument>
             <kind>4</kind>

@@ -182,7 +182,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="object_barRed">
+    <event eventtype="4" ename="object_barYellow">
       <action>
         <libid>1</libid>
         <id>203</id>
@@ -198,7 +198,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="object_barYellow">
+    <event eventtype="4" ename="object_barRed">
       <action>
         <libid>1</libid>
         <id>203</id>
